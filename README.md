@@ -9,7 +9,7 @@ I always love to chat about anything AWS & .NET so feel free to reach out using 
 - [Learning Rust 🦀](https://github.com/jeastham1993/learning-rust)
 - [Lambda-less Event Driven Architectures](https://github.com/jeastham1993/event-driven-serverless-cdk)
 - [Application Integration Patterns](https://github.com/jeastham1993/application-integration-patterns)
-- 
+
 ### Connect
 
 - 🌐 https://jameseastham.co.uk
