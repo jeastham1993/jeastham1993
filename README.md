@@ -6,10 +6,10 @@ I always love to chat about anything AWS & .NET so feel free to reach out using 
 
 ### Currently Working On
 
-- [Serverless Application Integration Patterns with .NET and Terraform](https://github.com/jeastham1993/application-integration-patterns)
+- [Learning Rust 🦀](https://github.com/jeastham1993/learning-rust)
 - [Lambda-less Event Driven Architectures](https://github.com/jeastham1993/event-driven-serverless-cdk)
-- [Use cases for deploying monolithic ,NET API's on AWS Lambda](https://github.com/jeastham1993/PlantBasedPizza/tree/monolith)
-
+- [Application Integration Patterns](https://github.com/jeastham1993/application-integration-patterns)
+- 
 ### Connect
 
 - 🌐 https://jameseastham.co.uk
