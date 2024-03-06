@@ -1,15 +1,14 @@
 ### 👋 Hi there, I'm James.
 
-I'm a Cloud Consultant at Amazon Web Services interested in all things .NET, serverless and event driven architecture. 
+I'm a Senior Cloud Architect at Amazon Web Services interested in all things serverless and event driven architecture. 
 
-I always love to chat about anything AWS & .NET so feel free to reach out using one of the links below.
+If you have any questions about serverless, event driven architectures or messaging in general feel free to reach out using one of the links below.
 
 ### Currently Working On
 
-- [Learning Rust 🦀](https://github.com/jeastham1993/learning-rust)
-- [Lambda-less Event Driven Architectures](https://github.com/jeastham1993/event-driven-serverless-cdk)
-- [Application Integration Patterns](https://github.com/jeastham1993/application-integration-patterns)
-
+- [Production Ready Rust on Serverless 🦀](https://github.com/jeastham1993/zero-to-production-rust)
+- [.NET Lambda Cookbook](https://github.com/jeastham1993/aws-lambda-dotnet-handler-cookbook)
+  
 ### Connect
 
 - 🌐 https://jameseastham.co.uk
