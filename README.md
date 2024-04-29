@@ -6,14 +6,14 @@ If you have any questions about serverless, event driven architectures or messag
 
 ### Currently Working On
 
-- [Production Ready Rust on Serverless 🦀](https://github.com/jeastham1993/zero-to-production-rust)
+- [Serverless Rust Documentation 🦀](https://github.com/ServerlessDevelopers/serverless-rust)
 - [.NET Lambda Cookbook](https://github.com/jeastham1993/aws-lambda-dotnet-handler-cookbook)
   
 ### Connect
 
-- 🌐 https://jameseastham.co.uk
-- 🐤 https://twitter.com/plantpowerjames
-- 📽  https://www.youtube.com/channel/UCutBMcgLfbSfRL-MB5Bskxg
+- 🌐 [https://jameseastham.co.uk](https://jameseastham.co.uk)
+- 🐤 [https://twitter.com/plantpowerjames](https://twitter.com/plantpowerjames)
+- 📽  [https://www.youtube.com/@serverlessjames](https://www.youtube.com/@serverlessjames)
 - 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeastham1993&show_icons=true&hide_border=true&custom_title=James%27s%20Stats" alt="jeastham1993" />
 
