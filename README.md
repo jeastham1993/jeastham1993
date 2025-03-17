@@ -12,9 +12,8 @@ If you have any questions about serverless, event driven architectures or messag
 ### Connect
 
 - 🌐 [https://jameseastham.co.uk](https://jameseastham.co.uk)
-- 🐤 [https://twitter.com/plantpowerjames](https://twitter.com/plantpowerjames)
-- 📽  [https://www.youtube.com/@serverlessjames](https://www.youtube.com/@serverlessjames)
-- 
+- 📽 [https://www.youtube.com/@serverlessjames](https://www.youtube.com/@serverlessjames)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeastham1993&show_icons=true&hide_border=true&custom_title=James%27s%20Stats" alt="jeastham1993" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeastham1993&layout=compact" alt="jeastham1993" />
