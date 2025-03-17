@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm James.
 
-I'm a Senior Cloud Architect at Amazon Web Services interested in all things serverless and event driven architecture. 
+I'm a storyteller, first and foremost. Why do I tell stories? To help you design & build modern, reliable and scaleable systems. I’m currently talking all things serverless at Datadog and am a Microsoft MVP and an AWS Community Builder for serverless.
 
 If you have any questions about serverless, event driven architectures or messaging in general feel free to reach out using one of the links below.
 
